@@ -86,7 +86,7 @@ function OverviewSection() {
       {/* Greeting */}
       <div>
         <h1 className="text-3xl font-semibold text-[color:var(--text-primary)]">
-          Welcome back, Junaid 👋
+          Welcome back, Abdullah 👋
         </h1>
         <p className="mt-1.5 text-[color:var(--text-muted)]">
           You're on a 7-day streak. Keep it going!

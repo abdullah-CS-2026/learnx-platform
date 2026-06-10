@@ -61,8 +61,8 @@ const Sidebar = ({ activeSection, onNavigate, isOpen, onToggle }) => {
               JK
             </div>
             <div className="min-w-0">
-              <p className="truncate text-sm font-semibold text-[color:var(--text-primary)]">Junaid Khan</p>
-              <p className="truncate text-xs text-[color:var(--text-muted)]">junaid@learnx.io</p>
+              <p className="truncate text-sm font-semibold text-[color:var(--text-primary)]">Muhammad Abdullah </p>
+              <p className="truncate text-xs text-[color:var(--text-muted)]">Abdullah@learnx.io</p>
             </div>
           </div>
         </div>
